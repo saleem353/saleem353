@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @saleem353
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m salim ahmad bello
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning django
+- 💞️ I’m looking to collaborate on django projects
+- 📫 How to reach me ... @ salimbello32@gmail.com
 
 <!---
 saleem353/saleem353 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
